@@ -69,12 +69,16 @@ Retinal fundus görüntülerinden optik disk, kan damarları, mikroanevrizma ve 
 
 - Segmentasyon örnekleri (optik disk, damar, mikroanevrizma, eksüda)  
   `<img width="385" height="280" alt="image" src="https://github.com/user-attachments/assets/c5cc029a-3fa2-4bd3-a91d-f69a391985bb" />
+  
 `  
   `<img width="423" height="281" alt="image" src="https://github.com/user-attachments/assets/e6c131b3-a1e1-4c8c-84a2-39aa3e729e70" />
+  
 `  
   `<img width="386" height="256" alt="image" src="https://github.com/user-attachments/assets/370c90b2-820b-45dc-a22c-97f6aa4ca8be" />
+  
 `  
   `<img width="436" height="255" alt="image" src="https://github.com/user-attachments/assets/3bebff95-63aa-4b3c-bbba-4a10c3557f31" />
+  
 `
 
 - CSV önizlemeleri
